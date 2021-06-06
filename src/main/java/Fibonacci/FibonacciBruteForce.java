@@ -15,5 +15,5 @@ public class FibonacciBruteForce {
         System.out.println(FibonacciBruteForce.fibonacci(50));
     }
 
-    // Time Complexity : 0(2 ^ N)  Space Complexity : 0(N)
+    // Time Complexity : O(2 ^ N)  Space Complexity : O(N)
 }
